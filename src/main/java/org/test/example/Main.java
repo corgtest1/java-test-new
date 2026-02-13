@@ -7,6 +7,7 @@ public class Main {
     long j =02343533;
     String s;
     System.out.println("Hello world!");
+     System.out.println("Hello world!"); //todo: remove it
     int i = 0;
     boolean f;
     boolean k321k; //TODO: asap
