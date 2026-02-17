@@ -34,7 +34,7 @@ public class Main {
   }
 
   private static String getSomething(){
-    
+    String password1 = "askjdhk"; // todo: the same
     String password = "askjdhk"; // todo: the same
     return password + "d" +"sd";
   }
