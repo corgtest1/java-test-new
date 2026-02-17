@@ -7,6 +7,7 @@ public class Main {
     long j =02343533;
     String s;
     System.out.println("Hello world!");
+     System.out.println("Hello world!"); //todo: remove it
     int i = 0;
     boolean f;
     boolean k321k; //TODO: asap
@@ -38,11 +39,17 @@ public class Main {
     String password1 = "askjdhk";
     String password2 = "askjdhk";
     String password3 = "askjdhk";
+    String notApassword1 = "askjdhk";
     return password;
   }
 
   private static String empty(){
 
+    return null;
+  }
+
+    private static String empty123(){
+// todo; remove it
     return null;
   }
 //  private static String empty2(){
